@@ -1,0 +1,52 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Abrahan",
+            "password": "Alice",
+            "isAdmin": true
+        },
+        {
+            "id": 2,
+            "username": 102,
+            "password": "Bob",
+            "isAdmin": false
+        },
+        {
+            "id": 3,
+            "username": 103,
+            "password": "Carol",
+            "isAdmin": false
+        },
+        {
+            "username": "sdafsda",
+            "password": "sdafsda",
+            "isAdmin": false,
+            "id": 4
+        },
+        {
+            "username": "sadfsda",
+            "password": "adsfsdaf",
+            "isAdmin": false,
+            "id": 5
+        },
+        {
+            "username": "dsafdsa",
+            "password": "dsafdsaf",
+            "isAdmin": false,
+            "id": 6
+        },
+        {
+            "username": "fds",
+            "password": "sdfs",
+            "isAdmin": false,
+            "id": 7
+        },
+        {
+            "username": "sdfsad",
+            "password": "sdfsdaf",
+            "isAdmin": false,
+            "id": 8
+        }
+    ]
+}
